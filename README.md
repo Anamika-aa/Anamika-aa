@@ -1,10 +1,22 @@
-- 👋 Hi, I’m @Anamika-aa
-- 👀 I’m interested in Cyber Security...
-- 🌱 I’m currently learning M.sc Cyber Security and Forensics
-  I'm currently looking for intership and jobs
-  
+# Hi, I'm Anamika Suresh 👋
+I'm a postgraduate in M.Sc IT-Cyber Security & Forensics. Done Internship from Kerala Police Academy.
 
-<!---
-Anamika-aa/Anamika-aa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Cyber Security Enthusiast
+
+### Skills
+- SOC Operations
+- SIEM (Wazuh)
+- Python
+- Machine Learning
+- Nmap
+- Wireshark
+- Digital Forensics
+
+### Projects
+- Real-Time Cyber Attack Prediction
+- Cyber Bullying Detection
+- Network Traffic Analysis
+
+### Connect With Me
+LinkedIn: linkedin.com/in/anamika-suresh-751bba275
+Email: anamikasuresh941@gmail.com
